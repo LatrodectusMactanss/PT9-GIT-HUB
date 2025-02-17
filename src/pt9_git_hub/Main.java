@@ -1,7 +1,7 @@
 package pt9_git_hub;
 
 public class Main {
-	public void main () {
-		System.out.println(“1a modificació Git”);
+	public static void main (String[] args) {
+		System.out.println("1a modificació Git");
 	}
 }
